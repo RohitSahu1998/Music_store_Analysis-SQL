@@ -96,6 +96,6 @@ group by i.biiling_country,c.country,c.first_name,c.last_name
 order by amount_spent desc;
 
 ## Entity Relationship(ERR) Diagram 
-
+<img width="594" alt="schema_diagram" src="https://github.com/RohitSahu1998/Music_store_Analysis-SQL/assets/119918550/5ec7201d-47dd-4f4d-b5bd-c8ae8f11b930">
 
 
